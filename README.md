@@ -3,9 +3,14 @@
 An Ember.js file uploader that works with any browser that supports
 [FormData](http://caniuse.com/#search=FormData).
 
+## Other options
+In the spirit of well built, shared community solutions, I would highly recommend taking a look at the following addon for your uploading needs.
+
+[ember-file-upload](https://github.com/adopted-ember-addons/ember-file-upload)
+
 ## Getting Started
 
-Ember Uploader is a Ember CLI compatible addon and can be installed as such.
+If `ember-file-upload` does not have what you are looking for, Ember Uploader is a Ember CLI compatible addon and can be installed as such.
 
 ```
 ember install ember-uploader
